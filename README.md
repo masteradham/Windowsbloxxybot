@@ -1,2 +1,0 @@
-# Windowsbloxxybot
-My TB bot
